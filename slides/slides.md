@@ -199,7 +199,8 @@ and your sin **atoned** for.”
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ 
++ not performative **self-abasement**
++ but **contrast** God's glory
 
 ---
 <!-- .slide: <%= bg("unsplash-ocwmWiNAWGs-sunset_park.jpg") %> class="outline" -->
@@ -209,6 +210,10 @@ and your sin **atoned** for.”
 1. **Herald** [(8)](# "ref")
 1. Hardening [(9-12)](# "ref")
 1. Hope [(13)](# "ref")
+
+>>>
++ out of the **brilliance** of glory
++ God **speaks**, calls to us:
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
@@ -220,8 +225,10 @@ and who will **go** for us?”
 [Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
-* God **sends**: His initiative
-  * we **go**: on behalf of Trinity
++ God **sends**: His initiative
+  + we **go**: on behalf of Trinity
++ not that God **needs** us
+  + but invites + **commands** us
 + not just Isaiah, but whole **family**:
 
 ---
@@ -253,7 +260,7 @@ Then I said, “**Here I am!** Send me."
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
-* here-I-am (hineni, behold): ready, wait
+* here-I-am (hineni, **behold**): ready, wait
   + for **anything** God asks of us
 * Also spoken by **Abraham** in Gen22:
 
@@ -377,7 +384,10 @@ down to this very day.”
 [Romans 11:7-8 (ESV)](# "ref")
 
 >>>
-+
++ It is God who **hardens**
+  + and God who **heals**
+
+______
 + (cf Is29:10 seers/prophets)
 
 ---

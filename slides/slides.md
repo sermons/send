@@ -8,12 +8,12 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# 
+# How will people <br/> **respond** to the gospel?
 <!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
-## Outline 
+## Here I Am, Send Me! [(Is6)](# "ref")
 1. Holiness [(1-4)](# "ref")
 1. Humility [(5-7)](# "ref")
 1. Herald [(8)](# "ref")
@@ -166,6 +166,7 @@ your guilt is **taken away**, and your sin **atoned** for.”
 ---
 ## Herald (call) 8
 
+>>>
 * God sends: His initiative
   * we go: on behalf of Trinity
 + not just Is, but **family**
@@ -175,8 +176,10 @@ your guilt is **taken away**, and your sin **atoned** for.”
   * הִנְנִ֥י שְׁלָחֵֽנִי hineni she-la-chei'-ni
 * Q: do you wait for and desire God's call?
 
+---
 ## Hardening 
 
+>>>
 * Rebellion 9-10
   * hearing hear; seeing see (inf abs)
     * understanding: discern truth
@@ -191,7 +194,10 @@ your guilt is **taken away**, and your sin **atoned** for.”
   * fields (land) ravaged (appalled)
   * people far, abandonment great
 
+---
 ## Hope
+
+>>>
 * Remnant 13
   * tenth portion: tithe dedicated
     * be to consume/burn

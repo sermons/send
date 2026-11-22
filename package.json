@@ -1,15 +1,17 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/send",
+  "repository": "sermons/send",
+  "description": "Is6 Here I Am, Send Me",
   "keywords": [
-    "slides"
+    "sermon",
+    "isaiah",
+    "evangelism"
   ],
   "version": "2.5.19",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "reveal-skel.seanho.com",
+    "cname": "send.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "f751c365c1f7eb0d"
@@ -27,7 +29,7 @@
       }
     ],
     "slides": [
-      "sample.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.2.1",
     "css": [

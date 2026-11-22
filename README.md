@@ -1,8 +1,8 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Here I Am, Send Me!
+## Isaiah 6
 
-[![Build status](https://github.com/sermons/reveal-skel/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/reveal-skel/actions/workflows/build.yml)
-![Dependency check](https://img.shields.io/librariesio/github/sermons/reveal-skel)
+[![Build status](https://github.com/sermons/send/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/send/actions/workflows/build.yml)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/send)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 

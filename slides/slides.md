@@ -167,7 +167,7 @@ and your sin **atoned** for.”
 
 ---
 <!-- .slide: data-background="white" -->
-# Has God's **holiness** <br/> driven me to a <br/> keen **awareness** <br/> of my own **sin**?
+# Has God's **holiness** <br/> driven me to <br/> a keen **awareness** <br/> of my own **sin**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -345,13 +345,16 @@ and **turn** and be **healed**.”
 [Isaiah 6:10b (ESV)](# "ref")
 
 >>>
++ **hardening** in seq: heart, ears, eyes
+  + so **healing**: eyes, ears, heart
 + not that God does not **desire**
   + that all should **repent** + be saved
 + but in fact **most** will not
 
 ---
 But their minds were **hardened**. <br/>
-For to this day, when they **read** the old covenant, <br/>
+For to this day, <br/>
+when they **read** the old covenant, <br/>
 that same **veil** remains unlifted
 
 [2 Corinthians 3:14 (ESV)](# "ref")
@@ -447,20 +450,26 @@ otherwise grace would no longer be grace.
 
 [Romans 11:5-6 (ESV)](# "ref")
 
+>>>
++ then **boasting** is excluded
++ am I any **better** than those disobedient?
+
 ---
 The **holy seed** is its stump.
 
 [Isaiah 6:13b (ESV)](# "ref")
 
 >>>
-+ holy seed (singular) (Gen 3:15)
++ holy seed (**singular**) 
+  + cf Gen 3:15 bite heel / crush head
 + earlier we read 2Cor3:
   + whenever old covenant is read
   + **veil** covers hearts
 
 ---
 But their minds were hardened. <br/>
-For to this day, when they read the old covenant, <br/>
+For to this day, <br/>
+when they read the old covenant, <br/>
 that same veil remains unlifted,
 
 because only through **Christ** is it **taken away**.
@@ -474,5 +483,8 @@ because only through **Christ** is it **taken away**.
 
 ---
 <!-- .slide: data-background="white" -->
-# 
+# What should my **attitude** be, <br/> as a **remnant** <br/> chosen by **grace**?
 <!-- .element: class="r-fit-text" -->
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->

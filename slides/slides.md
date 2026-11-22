@@ -8,7 +8,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How will people <br/> **respond** to the gospel?
+# How does the **gospel** <br/> change **others**? <br/> ... change **me**?
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -25,7 +25,7 @@
   + both comforting **promises**
   + and devastating **judgment**
 + from same **God**, to same **people**
-* Recurring theme: **kindness + severity** (Rom11:22)
+* Recurring theme: **kindness + severity** (Rom11)
 * 50 yrs of ministry: prob started in 20s
 
 ---
@@ -102,7 +102,7 @@ the **whole earth** is full of his glory!”
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I personally **encountered** <br/> the **holiness** of God?
+# Have I personally <br/> **encountered** <br/> the **holiness** of God?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -167,7 +167,7 @@ and your sin **atoned** for.”
 
 ---
 <!-- .slide: data-background="white" -->
-# Has God's **holiness** driven me <br/> to a keen **awareness** <br/> of my own **sin**?
+# Has God's **holiness** <br/> driven me to a <br/> keen **awareness** <br/> of my own **sin**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -236,7 +236,7 @@ And he said, “**Here I am**.”
   + God **uses** to show greater **salvation**
 
 ---
-Then I said, “Here I am! **Send me.**"
+Then I said, "Here I am! **Send me.** "
 
 [Isaiah 6:8b (ESV)](# "ref")
 
@@ -332,7 +332,8 @@ down to this very day.”
 [Romans 11:7-8 (ESV)](# "ref")
 
 >>>
-+ cf Is29:10
++
++ (cf Is29:10 seers/prophets)
 
 ---
 lest they **see** with their eyes,<br/>
@@ -344,6 +345,27 @@ and **turn** and be **healed**.”
 [Isaiah 6:10b (ESV)](# "ref")
 
 >>>
++ not that God does not **desire**
+  + that all should **repent** + be saved
++ but in fact **most** will not
+
+---
+But their minds were **hardened**. <br/>
+For to this day, when they **read** the old covenant, <br/>
+that same **veil** remains unlifted
+
+[2 Corinthians 3:14 (ESV)](# "ref")
+
+>>>
++ just as **Moses** covered face w/veil
+  + bc **radiance** of God's glory
+  + was too **much** for Isr
++ so even now, when reading **Bible**
+  + esp **law** revealing God's **holiness**
++ **hearts** are veiled
++ w/o **understanding**, no **repentance**
+  + w/o **obedience**, no blessing
+  + only God's **judgment**:
 
 ---
 Then I said, “**How long**, O Lord?” And he said:
@@ -359,13 +381,13 @@ in the midst of the land.
 [Isaiah 6:11-12 (ESV)](# "ref")
 
 >>>
-* Ruin 11-12
 * cities ruined (crash)
 * fields (land) ravaged (appalled)
 * people far, abandonment great
 
 ---
-Note then the **kindness** and the **severity** of God:
+Note then the **kindness** <br/>
+and the **severity** of God:
 
 severity toward those who have **fallen**, <br/>
 but God's kindness to **you**, <br/>
@@ -384,6 +406,11 @@ that he may have **mercy** on all.
 [Romans 11:32 (ESV)](# "ref")
 
 >>>
+
+---
+<!-- .slide: data-background="white" -->
+# Have my <br/> **eyes, ears, and heart** <br/> been dull to God's call?
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -426,4 +453,26 @@ The **holy seed** is its stump.
 [Isaiah 6:13b (ESV)](# "ref")
 
 >>>
-* holy seed (singular) (Gen 3:15)
++ holy seed (singular) (Gen 3:15)
++ earlier we read 2Cor3:
+  + whenever old covenant is read
+  + **veil** covers hearts
+
+---
+But their minds were hardened. <br/>
+For to this day, when they read the old covenant, <br/>
+that same veil remains unlifted,
+
+because only through **Christ** is it **taken away**.
+
+[2 Corinthians 3:14 (ESV)](# "ref")
+
+>>>
++ Chr **lifts** veil
++ split thick **curtain** blocking Most Holy Place
++ opening up new + living way to God
+
+---
+<!-- .slide: data-background="white" -->
+# 
+<!-- .element: class="r-fit-text" -->
